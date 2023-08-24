@@ -1,1 +1,6 @@
 # Rexshack Gaming
+- RSG RedM framework is a community driven project that provides open source code for the RedM community.
+- We pride ourselves on a frendly place to learn and grow!
+
+# Join Us
+- Discord : https://discord.gg/s5uSk56B65
