@@ -3,4 +3,4 @@
 - We pride ourselves on a frendly place to learn and grow!
 
 # Join Us
-- Discord : https://discord.gg/s5uSk56B65
+- Discord : https://discord.gg/eW3ADkf4Af
