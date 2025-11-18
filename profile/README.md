@@ -11,5 +11,8 @@ It aims to provide a foundation for RedM servers, offering various features and 
 * Features and systems: The RSG RedM Framework offers various features and systems, such as inventory management, appearance customization, HUD systems, medical systems, and more. These components can be used as building blocks for creating unique and engaging RedM servers.
 * If you’re interested in learning more about the RSG RedM Framework, head over to our Discord to join in the fun… see you there!
 
-# Join Us
-- discord : https://discord.gg/eW3ADkf4Af
+# Documentation
+[RSG Documentation](https://rsg.mintlify.app/)
+
+# Join our Discord
+[RSG Discord](https://discord.gg/eW3ADkf4Af)
