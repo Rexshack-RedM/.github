@@ -1,8 +1,10 @@
-<img width="2948" height="497" alt="rsg_framework" src="https://github.com/user-attachments/assets/752dd802-3be0-4a2c-975d-7c22cd9e901a" />
+![Logo](https://rsgcore.com/logo_new.png)
 
 # RSG RedM Framework
 The RSG RedM Framework is a community-driven project that provides open-source code for the RedM community, focusing on the Red Dead Redemption 2 roleplaying platform.
 It aims to provide a foundation for RedM servers, offering various features and systems that server owners can use and customize.
+
+An optimized, developer friendly foundation that handles the heavy lifting, so you can focus on what makes your RedM server unique.
 
 **Here are some key aspects of the RSG RedM Framework:**
 * Open-source: The framework’s code is freely available, allowing anyone to use, modify, and contribute to it. This fosters community involvement and ensures transparency.
@@ -11,8 +13,11 @@ It aims to provide a foundation for RedM servers, offering various features and 
 * Features and systems: The RSG RedM Framework offers various features and systems, such as inventory management, appearance customization, HUD systems, medical systems, and more. These components can be used as building blocks for creating unique and engaging RedM servers.
 * If you’re interested in learning more about the RSG RedM Framework, head over to our Discord to join in the fun… see you there!
 
+---
+
 # Documentation
-[RSG Documentation](https://rsg.mintlify.app/)
+[RSG Website](https://rsgcore.com/)
+[RSG Documentation](https://rsgcore.com/docs)
 
 # Join our Discord
 [RSG Discord](https://discord.gg/eW3ADkf4Af)
