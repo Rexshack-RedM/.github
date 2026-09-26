@@ -1,4 +1,4 @@
-![Logo](https://rsgcore.com/logo_new.png)
+<img width="2288" height="464" alt="rsg_banner" src="https://github.com/user-attachments/assets/15e0b24c-6a8c-473c-a17d-65a22691c03d" />
 
 # RSG RedM Framework
 The RSG RedM Framework is a community-driven project that provides open-source code for the RedM community, focusing on the Red Dead Redemption 2 roleplaying platform.
