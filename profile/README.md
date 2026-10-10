@@ -16,9 +16,9 @@ An optimized, developer friendly foundation that handles the heavy lifting, so y
 ---
 
 # Documentation
-[RSG Offical Website](https://rsgcore.com/)
-[RSG Offical Documentation](https://rsgcore.com/docs)
+* [RSG Offical Website](https://rsgcore.com/)
+* [RSG Offical Documentation](https://rsgcore.com/docs)
 
 # Join our Discord
-[RSG Framework Discord](https://discord.gg/eW3ADkf4Af)
-[RSG Network Discord](https://discord.gg/NK9NpGhNfZ)
+* [RSG Framework Discord](https://discord.gg/eW3ADkf4Af)
+* [RSG Network Discord](https://discord.gg/NK9NpGhNfZ)
