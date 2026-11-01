@@ -8,7 +8,7 @@ An optimized, developer friendly foundation that handles the heavy lifting, so y
 
 ---
 
-[RexShack Discord](https://discord.gg/Dmeh4dTQBT)
+[RexShack Discord](https://discord.gg/FvQcbJGdbp)
 
 ---
 
