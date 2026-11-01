@@ -14,6 +14,10 @@ An optimized, developer friendly foundation that handles the heavy lifting, so y
 
 ---
 
+[RexShack Discord](https://discord.gg/Dmeh4dTQBT)
+
+---
+
 # Documentation
 * [RSG Offical Website](https://rsgcore.com/)
 * [RSG Offical Documentation](https://rsgcore.com/docs)
