@@ -12,14 +12,9 @@ An optimized, developer friendly foundation that handles the heavy lifting, so y
 * Community-driven: The framework is developed and maintained by a community of RedM enthusiasts, ensuring it stays relevant and addresses the needs of server owners and players.
 * Red Dead Redemption 2 roleplaying: The framework is specifically designed for RedM, a modification that allows players to experience Red Dead Redemption 2 in a multiplayer roleplaying environment.
 * Features and systems: The RSG RedM Framework offers various features and systems, such as inventory management, appearance customization, HUD systems, medical systems, and more. These components can be used as building blocks for creating unique and engaging RedM servers.
-* If you’re interested in learning more about the RSG RedM Framework, head over to our Discord to join in the fun… see you there!
 
 ---
 
 # Documentation
 * [RSG Offical Website](https://rsgcore.com/)
 * [RSG Offical Documentation](https://rsgcore.com/docs)
-
-# Join our Discord
-* [RSG Framework Discord](https://discord.gg/eW3ADkf4Af)
-* [RSG Network Discord](https://discord.gg/NK9NpGhNfZ)
