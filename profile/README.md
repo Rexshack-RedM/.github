@@ -11,10 +11,6 @@ RSG Framework has been developed and optimized with the assistance of Artificial
 
 ---
 
-[RexShack Discord](https://discord.gg/FvQcbJGdbp)
-
----
-
 # Documentation
 * [RSG Offical Website](https://rsgcore.com/)
 * [RSG Offical Documentation](https://rsgcore.com/docs)
