@@ -8,9 +8,3 @@ An optimized, developer friendly foundation that handles the heavy lifting, so y
 
 # AI Usage Disclaimer
 RSG Framework has been developed and optimized with the assistance of Artificial Intelligence (AI) tools. All generated code has been reviewed, tested, and integrated to ensure compatibility and performance.
-
----
-
-# Documentation
-* [RSG Offical Website](https://rsgcore.com/)
-* [RSG Offical Documentation](https://rsgcore.com/docs)
